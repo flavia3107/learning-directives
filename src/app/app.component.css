@@ -31,58 +31,6 @@ hr {
   border-bottom: 3px solid #212124;
 }
 
-.logo {
-  display: flex;
-  align-items: center;
-}
-
-.logo > img {
-  height: 35px;
-}
-
-.logo-txt {
-  padding-left: 7px;
-  display: flex;
-  flex-direction: column;
-  color: #1d1d1d;
-  align-items: flex-start;
-}
-
-.logo-img {
-  width: 2rem;
-  margin-right: 3px;
-}
-
-.logo-txt h1,
-.logo-txt span {
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  letter-spacing: 4px;
-  color: #1d1d1d;
-}
-
-.logo-txt h1 {
-  font-weight: bolder;
-  font-size: 1.1rem;
-  margin-top: 2px;
-}
-
-.logo-txt span {
-  font-weight: lighter;
-  font-size: 0.85rem;
-}
-
-.row {
-  height: 1rem;
-  display: flex;
-  align-items: center;
-}
-
 a {
   text-decoration: none;
-}
-
-header {
-  padding: 1rem;
 }
